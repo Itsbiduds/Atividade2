@@ -10,9 +10,9 @@ function App() {
     'Item2',
     'Item3',
     'Item4',
-    'Item5'
+    'Item7'
     ]
-    
+  
 
   return (
     <div className="App">
